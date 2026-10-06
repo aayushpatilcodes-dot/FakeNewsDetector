@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "train_rows": 24353,
+  "validation_rows": 8117,
+  "logreg": {
+    "val_accuracy": 0.9680916594801035,
+    "val_f1": 0.9704641350210971
+  },
+  "naive_bayes": {
+    "val_accuracy": 0.9365529136380436,
+    "val_f1": 0.9408250028725726
+  },
+  "tfidf_params": {
+    "max_features": 20000,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 3
+  }
+}

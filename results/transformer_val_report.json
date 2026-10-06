@@ -1,0 +1,19 @@
+{
+  "seed": 42,
+  "model_name": "distilbert-base-uncased",
+  "train_subsample": 6000,
+  "val_subsample": 1200,
+  "max_length": 128,
+  "epochs": 2,
+  "batch_size": 16,
+  "training_time_seconds": 3748.9359810352325,
+  "validation_metrics": {
+    "eval_loss": 0.04098295420408249,
+    "eval_accuracy": 0.9875,
+    "eval_f1": 0.9874055415617129,
+    "eval_runtime": 172.6141,
+    "eval_samples_per_second": 6.952,
+    "eval_steps_per_second": 0.434,
+    "epoch": 2.0
+  }
+}

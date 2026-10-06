@@ -1,0 +1,156 @@
+[
+  {
+    "model": "Logistic Regression (TF-IDF)",
+    "num_misclassified": 263,
+    "misclassification_rate": 0.0324011334236787,
+    "examples": [
+      {
+        "title": "things to know about prague czech republic",
+        "text_snippet": "what motivates you to live what is the meaning of life\nfor centuries mankind has questioned everything mankinds quest for the answer to what drives us and what pushes us forward in times of darkness is not exempt from analysis in fact its been a consistent theme since the dawn of time stoicism  alth",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.0931964206402058
+      },
+      {
+        "title": "donald trump rushed off stage in reno after possible assassination attempt",
+        "text_snippet": "by now everyone has been reminded that the media is not infallible it is composed of very fallible human beings who make mistakes with the same regularity as all the rest of us i was recently reading a bit about something in statistics called galtons problem an observational dynamic named after its ",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.03625607818691789
+      },
+      {
+        "title": "BOOM! Trump Drains Obama Swamp\u2026Mandates All Ambassadors Vacate Positions \u201cWithout Exceptions\u201d By Inauguration Day",
+        "text_snippet": "President-elect Donald J. Trump s transition staff has issued a blanket edict requiring politically appointed ambassadors to leave their overseas posts by Inauguration Day, according to several American diplomats familiar with the plan, breaking with decades of precedent by declining to provide even",
+        "true_label": "FAKE",
+        "predicted_label": "REAL",
+        "predicted_confidence": 0.7022888998751099
+      },
+      {
+        "title": "evil hillary supporters yell fck trumpburn truck of daddy fishing with  yr son over of trump bumperstickers video  percentfedupcom",
+        "text_snippet": "email \nthese people are sick and evil they will stop at nothing to get their way laws mean nothing to them because they mean nothing to their president and his regime \na california man says a stranger hurled expletives and set his truck on fire thursday after seeing a prodonald trump sticker on the ",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.12679293045086368
+      },
+      {
+        "title": "SENATOR GILLIBRAND Pulled Strings So Muslim Athlete Who Molested 12-Year Old Girl Could Come To U.S. After His Visa Was Denied",
+        "text_snippet": "Democrat Senator Kristen Gillibrand (NY) likes to think of herself as a champion of women. After multiple women came forward to accuse fellow Democrat Senator Al Franken of sexual assault (photos were also supplied as evidence of one of the accuser s claims), Gillibrand finally called for Franken to",
+        "true_label": "FAKE",
+        "predicted_label": "REAL",
+        "predicted_confidence": 0.5319321504283742
+      },
+      {
+        "title": "militant shelling kills at least  civilians in western aleppo",
+        "text_snippet": "prison planetcom october   \nthe owner of the blue cat cafe is the victim of recent terrorist attacks on her business by communists protesters based in austin  ",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.32535311124431826
+      },
+      {
+        "title": "election result discussion for the  presidential election open thread",
+        "text_snippet": "earlier i skewered nine dictators thugs demagogues and politicians adored by leftists despite considerable failings in policy ethics and hygiene here are six more overhyped figures revered by leftists who always get everything wrong\nfranklin delano roosevelt \nhow the world remembers fdr led america ",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.08210595009981107
+      },
+      {
+        "title": "clintons nofly zone over syria will lead to war with russia warning of jcs chairman general dunford",
+        "text_snippet": "dr david duke  farren shoaf  countdown  days left to trumps presidency and the critical first primary to send dr duke to the us senate october   at  am \ndr david duke  farren shoaf  countdown  days left to trumps presidency and the critical first primary to send dr duke to the us senate \ntoday dr du",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.24006683730940878
+      },
+      {
+        "title": " Gov. Chris Christie Bails On Cop\u2019s Funeral To Campaign For Trump",
+        "text_snippet": "Governor Chris Christie wasted no time after suspending his presidential campaign to swoon over Donald Trump, the clear favorite to win the Republican Presidential nomination, in hopes his support would result in improving his own public image in the Republican Party, with an eye on a position in Tr",
+        "true_label": "FAKE",
+        "predicted_label": "REAL",
+        "predicted_confidence": 0.5664431485374438
+      },
+      {
+        "title": "syrian president bashar alassad welcomes the prime minister and internal trade and consumer protection minister",
+        "text_snippet": "email saudi arabia announces the vat act which was the last touches which come into force in early  mode and angry on twitter after the case of austerity pursued by the government of alsaud and the trade deficit in the budget said ibrahim alassaf saudi minister of finance on thursday by members of t",
+        "true_label": "FAKE",
+        "predicted_label": "REAL",
+        "predicted_confidence": 0.9107021697007338
+      }
+    ]
+  },
+  {
+    "model": "DistilBERT (fine-tuned)",
+    "num_misclassified": 149,
+    "misclassification_rate": 0.018356535665886412,
+    "examples": [
+      {
+        "title": "funny snls solution to democrat election denial safe space for everyone video",
+        "text_snippet": "go to article \nthey had to know they had it coming \ndonald trump scolded media big shots during an offtherecord trump tower sitdown on monday sources told the post \nit was like a fing firing squad one source said of the encounter \ntrump started with cnn chief jeff zucker and said i hate your network",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.011390379630029202
+      },
+      {
+        "title": "wow whistleblower tells chilling story of massive voter fraud trump campaign readies lawsuit against fl sec of elections in critical district video  percentfedupcom",
+        "text_snippet": "breaking nypd ready to make arrests in weiner casehillary visited pedophile island at least  timesmoney laundering underage sex payforplayproof of inappropriate handling classified information \nthe amazing citizen journalist mike cernovich broke this story this morning at danger and play  florida re",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.005246160086244345
+      },
+      {
+        "title": "breaking weiner cooperating with fbi on hillary email investigation",
+        "text_snippet": "red state  \nfox news sunday reported this morning that anthony weiner is cooperating with the fbi which has reopened yes lefties reopened the investigation into hillary clintons classified emails watch as chris wallace reports the breaking news during the panel segment near the end of the show \nand ",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.0016365741612389684
+      },
+      {
+        "title": "watch how i make my own bread at home with a bread machine",
+        "text_snippet": "as feminism erodes down to its tattooed lesbian core we should stop and take a moment to wonder what the point of the third wave part of feminism was although it ultimately proves destructive to western societies to give women equality at least the first and second wave had something legitimate to b",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.02985680289566517
+      },
+      {
+        "title": "Clinton says Trump is most divisive candidate 'in our lifetimes'",
+        "text_snippet": "In a speech weighted with America\u2019s complicated racial history, Democrat Hillary Clinton laced into Republican presidential rival Donald Trump on Wednesday, accusing him of fueling divisions among Americans over race and religion. \u201cHis campaign is as divisive as any we have seen in our lifetimes,\u201d C",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.0005262329941615462
+      },
+      {
+        "title": "checkmating obama",
+        "text_snippet": "search zineb el rhazoui charlie hebdo survivor discusses why the world needs to destroy islamic fascism undeterred by fatwas and death threats the author has released an incendiary and thoughtful new book bound to provoke debate october   \nreprinted from nytimescom \n\nshe leads a clandestine existenc",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.0018434057710692286
+      },
+      {
+        "title": "trump erupts at secret meeting with the press transition in chaos tweets  addicting info  the knowledge you crave",
+        "text_snippet": "adobochron  comment \nmanila philippines the adobo chronicles manila bureau  this is a tutorial on how to ride the jeepney which is an important mode of mass transportation in many cities and towns in the philippines \nmany of you may already be familiar with these rules etiquette and tricks but for t",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.07505403459072113
+      },
+      {
+        "title": "what the trump skeptics got wrong",
+        "text_snippet": "leave a reply \ngreg hunter  recently i was fortunate enough to be interviewed by jim sinclair and bill holter at jsminesetcom they wanted to get my take on the state of journalism or the propaganda mainstream media they also wanted to get a read on what many of my guests have been saying over the pa",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.008052426390349865
+      },
+      {
+        "title": "wall street hollywood the media and sjws fail to stop donald trump from becoming americas th president",
+        "text_snippet": "leave a reply maureen moss  not a typical newsletter from me these are words that flowed forth this morning \nclearly the week ahead for the united states and those across the world will be one of the most significant in history the presidential election is historic in and of itself though the weeks ",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.027133500203490257
+      },
+      {
+        "title": "comment on  tips for having sex with croatian girls by watch my summer vacation in croatia",
+        "text_snippet": "over the last decades south korea has emerged as one of the wealthiest countries in all of asia currently the oecd country is roughly on the same material and economic level as other affluent east asian nations such as japan hong kong and taiwan however it appears now as perhaps the most potentially",
+        "true_label": "REAL",
+        "predicted_label": "FAKE",
+        "predicted_confidence": 0.33271804451942444
+      }
+    ]
+  }
+]

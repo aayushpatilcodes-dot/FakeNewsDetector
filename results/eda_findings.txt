@@ -1,0 +1,21 @@
+EDA on GonzaloA/fake_news — 40587 total rows
+
+Overall class counts: {'REAL': 21924, 'FAKE': 18663} (total=40587)
+  split=train: {'REAL': 13195, 'FAKE': 11158} (n=24353)
+  split=validation: {'REAL': 4394, 'FAKE': 3723} (n=8117)
+  split=test: {'REAL': 4335, 'FAKE': 3782} (n=8117)
+Word count stats by class:
+         count        mean         std  min    25%    50%    75%     max
+label                                                                   
+FAKE   18663.0  428.781600  375.713172  0.0  269.0  374.0  505.0  8135.0
+REAL   21924.0  390.139847  301.194382  1.0  145.0  358.0  526.0  5828.0
+
+Label-leakage scan (occurrence rate per class):
+  'Reuters': FAKE=1.286%  REAL=96.620%
+  '(Reuters)': FAKE=0.038%  REAL=95.890%
+  'Getty Images': FAKE=21.138%  REAL=0.055%
+  'Featured image': FAKE=43.734%  REAL=0.055%
+  '21st Century Wire': FAKE=3.370%  REAL=0.000%
+  'Image via': FAKE=33.612%  REAL=0.036%
+
+Saved top_words_by_class.png

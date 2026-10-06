@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Large raw data (full CSVs) - only small processed samples are committed
+data/raw/*.csv
+data/raw/dataset_info.txt
+
+# Trained models (large binaries) - regenerate with src/train_baseline.py
+# and src/train_transformer.py; keep metrics/plots in results/ instead.
+models/
+
+# Transformer training checkpoints
+**/checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Claude Code harness internals
+.claude/
